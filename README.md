@@ -4,5 +4,7 @@ This website holds my Chegg Skills portfolio. I created it to showcase my HTML a
 
 ## Credits
 [Anja Meiners](https://bboxtype.com/) - For creating the ABeeZee font.
+
 [LatinoType](https://www.latinotype.com/) - For creating the Patua One font.
+
 Vernon Adams - For creating the Monoton font.
