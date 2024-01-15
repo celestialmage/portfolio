@@ -3,6 +3,10 @@ h2 {
   margin-bottom: 0px;
 }
 
+/*
+this html block is what enables the column style of the webpage. if i had a background pattern
+i could add here, it would appear behind the column.
+*/
 html {
   margin-top: 20px;
   margin-left: 20%;
